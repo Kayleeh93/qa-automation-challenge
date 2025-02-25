@@ -16,5 +16,2075 @@
       "taskDescription": "Austauch der Rauchwarnmelder"
     },
     "timestamp": "2024-09-01T10:00:00Z"
+  },
+  {
+    "id": "491fa200-f4fa-411e-9bf1-e1ce05cd3384",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:10:44.683Z"
+  },
+  {
+    "id": "0d6c5e0f-b205-48ae-8cb8-64dcb1a92984",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:11:03.052Z"
+  },
+  {
+    "id": "f550575a-7aed-49f6-8a26-b0d5d1a87623",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:11:28.605Z"
+  },
+  {
+    "id": "f5a577ae-338d-457e-bbeb-e58f7aa8eccb",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:11:38.060Z"
+  },
+  {
+    "id": "12069ba5-18d6-4e8e-b07f-97983229872e",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:13:43.957Z"
+  },
+  {
+    "id": "dc185c1a-1612-4d6f-b222-81598b236a1a",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:14:08.319Z"
+  },
+  {
+    "id": "0ef479eb-3f21-42af-94b8-a07dcf0e9a32",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:14:31.147Z"
+  },
+  {
+    "id": "eac683ff-c199-4aba-b9ea-03d14a6b3926",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:15:04.770Z"
+  },
+  {
+    "id": "7b7d3411-53da-4e49-b384-969b6753c486",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:15:42.590Z"
+  },
+  {
+    "id": "1ef6d084-2339-42c3-9981-b42ee60fb0bf",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:16:01.806Z"
+  },
+  {
+    "id": "e929b7c6-d92b-4d60-a395-81960e5d2185",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:16:07.504Z"
+  },
+  {
+    "id": "45f29beb-97df-4698-80ca-54cdfde0f79b",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:16:24.929Z"
+  },
+  {
+    "id": "47f5e7d1-43b9-4c67-893e-1437b0553b9e",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:16:55.528Z"
+  },
+  {
+    "id": "8123b914-44ed-4833-b290-8e4ef967c6aa",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:17:23.127Z"
+  },
+  {
+    "id": "6daffa39-a7bc-4dee-83dd-66b7461e7437",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:23:04.646Z"
+  },
+  {
+    "id": "c254c684-1f03-47f9-bd7a-541a602c85da",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:33:49.802Z"
+  },
+  {
+    "id": "a9a4c505-e634-49fa-90de-ffedf12b4856",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:34:59.290Z"
+  },
+  {
+    "id": "74a60d41-25cb-41d7-9742-1ae19a7af3ec",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:36:18.780Z"
+  },
+  {
+    "id": "0b291d59-a654-4e13-a3b0-9297f3e71246",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:36:29.734Z"
+  },
+  {
+    "id": "f093ac1b-adb6-4083-96f1-c1006cd2d182",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:36:34.814Z"
+  },
+  {
+    "id": "8a300279-1edc-4109-8a2f-86ff7760a135",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:37:29.231Z"
+  },
+  {
+    "id": "61f35452-4a92-40aa-91b5-57932997ca8d",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:38:26.392Z"
+  },
+  {
+    "id": "60862731-2e52-4393-95d5-9c682f0b90af",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:39:17.133Z"
+  },
+  {
+    "id": "2b062f9f-284d-4f06-ba5c-84572e1af49c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:39:51.915Z"
+  },
+  {
+    "id": "21ff7c85-62d7-48b4-82c8-c2fdae5ecc6a",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T17:40:05.558Z"
+  },
+  {
+    "id": "db84fbac-33b8-4c3b-bdf3-39badeeb136e",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:21:28.088Z"
+  },
+  {
+    "id": "94046c4d-da0a-4aa1-9a6a-41ea592f21c5",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:34:28.838Z"
+  },
+  {
+    "id": "6a8d150d-c791-4ed8-bb13-5c37e6a2a3e4",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:34:32.876Z"
+  },
+  {
+    "id": "48da9ca2-ae1a-4a2f-9007-2e95f9a4dda8",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:37:37.122Z"
+  },
+  {
+    "id": "6e6426df-d408-48fa-ad71-7f85e4b3e050",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:38:24.727Z"
+  },
+  {
+    "id": "6a6b478f-978c-4be7-85d8-156af96d467e",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:38:40.836Z"
+  },
+  {
+    "id": "f8a946a0-0ae3-4ded-aaa7-cb82a6190f27",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:41:35.407Z"
+  },
+  {
+    "id": "0c5577ea-371e-4f57-b9f2-f6c86f329435",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:41:45.481Z"
+  },
+  {
+    "id": "ba3400d5-bd34-4d68-af0b-aa416218ede0",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:41:49.924Z"
+  },
+  {
+    "id": "8408c7a8-f562-4843-ab84-d0203e07b338",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:41:53.753Z"
+  },
+  {
+    "id": "46186a98-f1b6-4449-af93-ef98f2ad293c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:41:59.271Z"
+  },
+  {
+    "id": "302cbef0-97f1-4333-b262-5be1b55b4ac9",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:42:16.473Z"
+  },
+  {
+    "id": "fb8b98df-0710-49a3-b07b-3c63e054bc3d",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:45:56.939Z"
+  },
+  {
+    "id": "20c29209-2c8b-406b-b939-c70345b04f79",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:46:02.139Z"
+  },
+  {
+    "id": "16fb52af-1020-471e-8003-af1ca72b4d12",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:51:22.185Z"
+  },
+  {
+    "id": "98e3a131-135a-40f1-a285-650bda66d1fb",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:51:31.512Z"
+  },
+  {
+    "id": "af9b6c65-126c-40ec-a8dd-e0d66b716b8f",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:51:46.415Z"
+  },
+  {
+    "id": "d9dc5156-f423-4f55-a343-ada55d7e99ee",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:52:05.923Z"
+  },
+  {
+    "id": "23cef73b-447a-4ca3-882b-e7534aa53181",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:52:40.258Z"
+  },
+  {
+    "id": "a8bb30ed-eaf5-4da3-9531-731ad0971302",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:52:59.124Z"
+  },
+  {
+    "id": "95d3fc3b-3901-405a-ad8e-95f0a9cbb8f9",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:53:06.329Z"
+  },
+  {
+    "id": "b682a29a-3fd5-4ed8-a442-fbaa45d95de1",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:54:24.710Z"
+  },
+  {
+    "id": "375021fb-75cd-402e-a611-ca9ecf14f11e",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:54:29.843Z"
+  },
+  {
+    "id": "3fa16506-cba4-4701-9077-d77006c40229",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:54:42.830Z"
+  },
+  {
+    "id": "96fb3698-89d3-4b48-8b08-fc38cb37688b",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:55:14.155Z"
+  },
+  {
+    "id": "68b2219c-51e2-4dad-9cb9-ca0cae20f4a4",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:56:24.058Z"
+  },
+  {
+    "id": "ca462812-a934-444b-8258-236ddcfefa34",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:56:33.821Z"
+  },
+  {
+    "id": "9aba86e5-0f45-4802-98b7-f1e93a219242",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:56:44.034Z"
+  },
+  {
+    "id": "5e26b14e-92a1-4674-9bff-4730d436e774",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:57:11.134Z"
+  },
+  {
+    "id": "06d664a5-e686-4d29-9a57-cb447aace52b",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:57:57.617Z"
+  },
+  {
+    "id": "863233d7-e5dd-46f3-bce3-e7dc5798ba6d",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:58:06.428Z"
+  },
+  {
+    "id": "62c7a7cb-6324-47ea-8e83-fac37bd046df",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:58:09.597Z"
+  },
+  {
+    "id": "1b3675eb-f807-4193-bf45-f9bc1b05df2c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:58:22.390Z"
+  },
+  {
+    "id": "702531d3-d8b0-41e3-a660-e61ca03460a9",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:58:52.986Z"
+  },
+  {
+    "id": "30f42c9c-bfef-405d-b5ce-3a34ad97d18c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:59:21.012Z"
+  },
+  {
+    "id": "9b3f03f0-0453-4c51-b04c-31d157f5d194",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:59:27.254Z"
+  },
+  {
+    "id": "1d685ad4-74a7-4ebd-922a-6a876cb6063e",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:59:31.757Z"
+  },
+  {
+    "id": "ec472d4e-f1b6-4214-a1cb-a454a06ef38c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T20:59:36.916Z"
+  },
+  {
+    "id": "df63b6b7-b3a1-48b4-991b-3a4d3bf26d38",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:01:56.058Z"
+  },
+  {
+    "id": "f9a28ce4-2e5c-4cf8-96f0-e5393bb13782",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:02:21.581Z"
+  },
+  {
+    "id": "edcc012d-9512-4770-ad92-dff12f70dce9",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:02:25.600Z"
+  },
+  {
+    "id": "f012c08a-7f49-42dd-841b-0e64399c176a",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:02:30.851Z"
+  },
+  {
+    "id": "f6fb4290-ba2e-4cdd-ae89-695b8a3c5e2c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:03:14.541Z"
+  },
+  {
+    "id": "374c993b-9f09-4029-849f-e98d6f346a14",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:03:20.448Z"
+  },
+  {
+    "id": "e34e112b-4fb8-4e5d-b564-14e143c391a3",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:03:24.084Z"
+  },
+  {
+    "id": "74217534-eb12-4ad8-97c9-ed33303b4717",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:03:28.954Z"
+  },
+  {
+    "id": "1bf5b947-cfca-4623-a8c7-a2c31513f94d",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:06:49.116Z"
+  },
+  {
+    "id": "a6a70b36-b6b4-4902-9a08-3614aede6c72",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:15.986Z"
+  },
+  {
+    "id": "6101a89a-b5a6-42f6-9f13-137f06c5e54c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:22.403Z"
+  },
+  {
+    "id": "241f2c98-069a-4e65-8476-21678ba739f3",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:27.418Z"
+  },
+  {
+    "id": "eeac1bb2-883c-46e6-bde1-f136727a5f7f",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:27.596Z"
+  },
+  {
+    "id": "999e6064-2f63-45a2-acfa-3801b359d8fa",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:31.447Z"
+  },
+  {
+    "id": "fe028a77-4ee1-48c2-9656-20d98e95d0cf",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:31.596Z"
+  },
+  {
+    "id": "e76985aa-d2de-4285-8012-071d6078f20b",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:39.316Z"
+  },
+  {
+    "id": "3f404a2c-ddc3-472a-972e-13a4f3170cf2",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:39.493Z"
+  },
+  {
+    "id": "51dc2045-29f0-40b4-91f3-ad6dcaa54f82",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:43.182Z"
+  },
+  {
+    "id": "fb2aaad0-e0a0-4c3f-9b2c-81fba741886e",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:46.893Z"
+  },
+  {
+    "id": "56d9e9a4-0752-4ec5-b569-530e631ed449",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:07:47.078Z"
+  },
+  {
+    "id": "65e81edb-20bf-442c-ada9-b884755a180a",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:08:09.549Z"
+  },
+  {
+    "id": "1594f172-5de1-429e-8bed-26c460626fab",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:08:12.139Z"
+  },
+  {
+    "id": "b7e3595e-f9a2-44d0-b286-054a5f2d01df",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:08:22.575Z"
+  },
+  {
+    "id": "826c1004-1afc-45bf-a2ca-5634ab50e133",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:08:26.218Z"
+  },
+  {
+    "id": "17d35104-5dc8-4b64-b796-837c6dbf3b88",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:08:45.702Z"
+  },
+  {
+    "id": "fe1d83ac-2f8c-4380-98f9-d54bde3b0308",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:09:02.163Z"
+  },
+  {
+    "id": "b1245bfa-411c-4ca2-8f88-0140a60fd170",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:09:04.727Z"
+  },
+  {
+    "id": "e1e78f7b-ca0a-4a6d-8028-96247e8cb2b3",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:09:39.562Z"
+  },
+  {
+    "id": "5700a436-8527-4510-8c2c-57c6bf6bb144",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:09:42.136Z"
+  },
+  {
+    "id": "626bc5b8-9ea7-4c03-988c-2992e6550e84",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:10:04.845Z"
+  },
+  {
+    "id": "e43c5768-a9a2-4dc6-9ff8-87cb8dc4d745",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:10:07.433Z"
+  },
+  {
+    "id": "87021170-2e0b-41ed-afcc-be2aab1f79bc",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:11:42.239Z"
+  },
+  {
+    "id": "fae1d370-a855-44ad-b0bf-276fcab27ac3",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:11:45.883Z"
+  },
+  {
+    "id": "5869989e-3daa-46fc-8789-3974fab622ef",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:12:20.583Z"
+  },
+  {
+    "id": "f546ddac-328c-4cf3-8a63-10976337a8b3",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:12:53.576Z"
+  },
+  {
+    "id": "5f0992be-1b92-4a3b-a6d0-9aaee93cd8aa",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:13:39.286Z"
+  },
+  {
+    "id": "62b331fe-23f9-4756-ba62-c6a9ac123770",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:13:41.862Z"
+  },
+  {
+    "id": "b8b91c52-5c06-48ca-9618-c65985dddf76",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:13:56.492Z"
+  },
+  {
+    "id": "461e1409-2ea8-4a5d-a044-c1e703f81b44",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:14:07.621Z"
+  },
+  {
+    "id": "f7abad48-dbdf-422a-8efd-21578dc9f2e5",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:14:10.372Z"
+  },
+  {
+    "id": "723cd178-82ae-41a0-b2e1-0d475e80ec66",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:14:43.821Z"
+  },
+  {
+    "id": "7e0c3976-4dea-4732-8570-b1220776dddd",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:15:18.211Z"
+  },
+  {
+    "id": "6e1ab4cb-ddbc-4357-87a7-09cc1b0fb75b",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:15:42.754Z"
+  },
+  {
+    "id": "808de626-f13b-4dbc-a98e-1aa6151a19ad",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:15:46.404Z"
+  },
+  {
+    "id": "d7f61429-624b-45ed-b319-fd91d8ddca09",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:15:52.314Z"
+  },
+  {
+    "id": "bca850dd-497e-4b86-aca6-ee91c1304051",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:15:55.948Z"
+  },
+  {
+    "id": "2da5bccd-247b-43e7-bdc7-1035ea201ac2",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:27:56.938Z"
+  },
+  {
+    "id": "b8e8130f-07c0-4848-bfef-9aa474905dd7",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-18",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "technician": {
+        "id": "t1",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:28:09.459Z"
+  },
+  {
+    "id": "d4527f0e-9890-449b-977e-ed552b06cb4c",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:28:12.050Z"
+  },
+  {
+    "id": "864059b5-5338-4bd5-8ded-540bb217b2f1",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-19",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "technician": {
+        "id": "t2",
+        "name": "Jane Smith",
+        "age": 30,
+        "gender": "Female"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:28:23.207Z"
+  },
+  {
+    "id": "1e06fa0f-698c-4320-9d19-d13ddcabea49",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:28:26.623Z"
+  },
+  {
+    "id": "cdcedab2-8c1c-4817-b7ff-c7ac328f7654",
+    "type": "UPDATED",
+    "appointment": {
+      "id": "appointment-1",
+      "day": "2024-09-20",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "technician": {
+        "id": "t3",
+        "name": "Alex Johnson",
+        "age": 28,
+        "gender": "Non-binary"
+      },
+      "taskDescription": "Austauch der Rauchwarnmelder"
+    },
+    "timestamp": "2025-02-25T21:28:43.529Z"
   }
 ]

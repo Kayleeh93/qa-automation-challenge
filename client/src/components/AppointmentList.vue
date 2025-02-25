@@ -8,34 +8,35 @@
         class="appointment-item"
       >
         <div class="appointment-details">
-          <h3>{{ appointment.day || "No date specified" }}</h3>
-          <p>
-            <strong>Zeitraum:</strong>
+          <h3 id="test_date_day">{{ appointment.day || "No date specified" }}</h3>
+          <p id="test_time_paragraph">
+            <strong id="test_time">Zeitraum:</strong>
             {{ appointment.startTime || "Not specified" }} -
             {{ appointment.endTime || "Not specified" }}
           </p>
-          <p>
-            <strong>Durchzuführende Arbeit:</strong>
+          <p id="test_technician_task_paragraph">
+            <strong id="test_technician_task">Durchzuführende Arbeit:</strong>
             {{ appointment.taskDescription || "No description" }}
           </p>
         </div>
         <div class="technician-details">
           <h4>Ihr Servicetechniker</h4>
-          <p>
-            <strong>Name:</strong>
+          <p id="test_technician_name_paragraph">
+            <strong id="test_technician_name">Name:</strong>
             {{ appointment.technician?.name || "Not assigned" }}
           </p>
-          <p>
-            <strong>Alter:</strong> {{ appointment.technician?.age || "N/A" }}
+          <p id="test_technician_age_paragraph">
+            <strong id="test_technician_age">Alter:</strong> {{ appointment.technician?.age || "N/A" }}
           </p>
-          <p>
-            <strong>Geschlecht:</strong>
+          <p id="test_technician_sex_paragraph">
+            <strong id="test_technician_sex">Geschlecht:</strong>
             {{ appointment.technician?.gender || "Not specified" }}
           </p>
         </div>
         <button
           @click="showRescheduleOptions(appointment.id)"
           class="btn-reschedule"
+          id="test_reschedule_button"
         >
           Verschieben
         </button>

@@ -9,6 +9,7 @@
     "setup": "npm i && cd client && npm i && cd ../server && npm i"
   },
   "devDependencies": {
+    "@playwright/test": "^1.50.1",
     "concurrently": "4.1.1"
   }
 }

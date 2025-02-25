@@ -6,7 +6,8 @@
     "start": "concurrently \"npm run server\" \"npm run client\"",
     "server": "node start-server.js",
     "client": "node start-client.js",
-    "setup": "npm i && cd client && npm i && cd ../server && npm i"
+    "setup": "npm i && cd client && npm i && cd ../server && npm i",
+    "test": "npx playwright test"
   },
   "devDependencies": {
     "@playwright/test": "^1.50.1",

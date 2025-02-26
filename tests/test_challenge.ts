@@ -8,7 +8,7 @@ Nevertheless I tried to fail-proof the code as good as possible (e.g. assertion 
 
 // setup 
 test.beforeEach(async ({ page }) => {
-    await page.goto("http://localhost:8080/")
+    await page.goto("http://127.0.0.1:8080/")
     await expect(page).toHaveTitle("qa-automation-engineer-challenge")
 
     // In setup the test always clicks the first option of the reschedule list to make sure, 

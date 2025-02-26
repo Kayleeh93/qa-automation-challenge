@@ -19,9 +19,12 @@ jobs:
       run: npm run setup
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
-    - name: Run Playwright tests
-      run: |
-        npm run start & sleep 6 & npm run test
+    - name: Start the server
+      run: npm start &  
+    - name: Wait for server to be ready
+      run: sleep 6
+    - name: Run tests
+      run: npm test
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
